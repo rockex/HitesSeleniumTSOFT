@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40881" started-at="2019-05-15T18:28:41Z" finished-at="2019-05-15T18:29:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40881" started-at="2019-05-15T18:28:41Z" finished-at="2019-05-15T18:29:22Z">
+      <class name="Test.Comparar_Producto">
+        <test-method status="PASS" signature="comparaProducto()[pri:0, instance:Test.Comparar_Producto@66a3ffec]" name="comparaProducto" duration-ms="40091" started-at="2019-05-15T18:28:41Z" finished-at="2019-05-15T18:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comparaProducto -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Test.Comparar_Producto@66a3ffec]" name="afterClass" is-config="true" duration-ms="746" started-at="2019-05-15T18:29:21Z" finished-at="2019-05-15T18:29:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Test.Comparar_Producto -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
